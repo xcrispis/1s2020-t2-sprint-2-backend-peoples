@@ -1,0 +1,14 @@
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\bin\Debug\netcoreapp2.1\senai.Pessoas.WebApi.deps.json
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\bin\Debug\netcoreapp2.1\senai.Pessoas.WebApi.runtimeconfig.json
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\bin\Debug\netcoreapp2.1\senai.Pessoas.WebApi.runtimeconfig.dev.json
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\bin\Debug\netcoreapp2.1\senai.Pessoas.WebApi.dll
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\bin\Debug\netcoreapp2.1\senai.Pessoas.WebApi.pdb
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.csprojAssemblyReference.cache
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.RazorAssemblyInfo.cache
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.RazorAssemblyInfo.cs
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.AssemblyInfoInputs.cache
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.AssemblyInfo.cs
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.dll
+C:\Users\50333791860\Downloads\1s2020-t2-sprint-2-backend-peoples\Projeto_Pessoas\senai.Pessoas.WebApi\senai.Pessoas.WebApi\obj\Debug\netcoreapp2.1\senai.Pessoas.WebApi.pdb

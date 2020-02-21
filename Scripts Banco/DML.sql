@@ -1,0 +1,1 @@
+INSERT INTO funcionarios(nome, sobrenome, datanascimento) VALUES ('Catarina', 'Strahda', '04/05/2000'), ('Tadeu','Vitelli','02/05/1989')
